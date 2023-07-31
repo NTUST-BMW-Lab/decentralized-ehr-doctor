@@ -2,8 +2,7 @@
 
 > This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
-Front-end doctor application to access the decentralized Eletronic Health Record systems.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Q9b84AoSkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Medrone Doctor demo](https://img.youtube.com/vi/6Q9b84AoSkI/0.jpg)](https://www.youtube.com/watch?v=6Q9b84AoSkI)
 
 ## Other repositories:
 - [Patient application](https://github.com/NTUST-BMW-Lab/decentralized-ehr-patient)
